@@ -1,11 +1,56 @@
-Copyright (c) 2026 Dawn Developer Team. All Rights Reserved.
+# Privacy Policy
 
-PREAMBLE:
-This repository hosts the official Terms of Service ("ToS") and Privacy Policy for our application. It is placed on GitHub publicly solely for transparency, version tracking, and to allow the community to submit feedback or bug reports via GitHub Issues.
+**Last Updated: October 27, 2026**
 
-TERMS OF LICENSE:
-1. RESTRICTION ON MODIFICATION AND REUSE: You are strictly prohibited from copying, modifying, altering, or creating derivative works of any legal text in this repository for use with any other application, bot, website, or service.
-2. PERMITTED USE: You may read this text, link to this repository, and use standard GitHub features (such as opening Issues or Pull Requests) to suggest changes to the copyright holder. 
-3. NO TRANSFER OF RIGHTS: Submitting a Pull Request or Issue does not grant you any ownership or rights over this text. The copyright holder retains full, exclusive ownership of all text within this repository.
+This Privacy Policy explains how the **Dawn Developer Team** ("the Dev Team", "we", "us", or "our") collects, stores, processes, and protects your information when you use **[Your Bot Name]** ("the Bot"). 
 
-THE SOFTWARE/TEXT IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND.
+By inviting, accessing, or interacting with the Bot, you explicitly agree to the data practices described in this policy. If you do not agree with these practices, you must immediately remove the Bot from your server and cease all interaction with it.
+
+---
+
+## 1. Information We Collect
+
+To function properly, secure our infrastructure, and enforce our Terms of Service, the Bot automatically processes and stores certain data. We only collect the minimum amount of data necessary.
+
+| Data Type | What We Collect | Purpose |
+| :--- | :--- | :--- |
+| **User Identifiers** | Platform User IDs, usernames, and avatars. | To identify your account, save your configurations, and execute commands. |
+| **Server Identifiers** | Server/Guild IDs, channel IDs, and role configurations. | To allow the Bot to function within your specific server environment. |
+| **Command Telemetry** | Timestamps, command inputs, and system error logs. | To debug technical issues, optimize performance, and prevent spamming. |
+| **Infraction Logs** | Record of ToS violations, associated User IDs, and server IDs. | To maintain an internal security database and ban malicious users or servers. |
+
+*Note: The Bot does **not** read, log, or store your private text chat messages unless a message explicitly triggers a specific command intended for the Bot.*
+
+## 2. How We Use Your Data
+
+We use the collected data strictly for operational, analytical, and security purposes. Your data is used to:
+* Provide, maintain, and improve the Bot's core features.
+* Authenticate your identity and process your specific command requests.
+* **Identify, log, and block users** who violate our Terms of Service or attempt to maliciously exploit our infrastructure.
+* Ensure compliance with the platform's overarching developer policies.
+
+## 3. Data Sharing and Third Parties
+
+Your privacy is critical to us. **We do not sell, rent, trade, or monetize your data under any circumstances.** 
+
+We only share data in the following highly restricted situations:
+* **Infrastructure Providers:** Data may pass through or be securely stored on our hosting servers and database providers (e.g., AWS, DigitalOcean, or private servers).
+* **Legal Requirements:** We may disclose your information if legally required to do so by law enforcement, court orders, or to protect the safety, rights, and intellectual property of the Dev Team and our users.
+
+## 4. Data Security and Protection
+
+We implement industry-standard security measures to safeguard your information from unauthorized access, alteration, or disclosure. However, no database or transmission over the internet is 100% secure. While we fight to protect your data, we cannot guarantee absolute security.
+
+## 5. Data Retention and Deletion
+
+We only store your data for as long as necessary to provide our services and maintain platform security.
+* **Active Data:** Server and user configurations are stored as long as the Bot remains in your server or you actively interact with it.
+* **Infraction Logs:** To protect our platform from ongoing malicious intent, records of ToS violations, blacklisted user IDs, and server bans are **retained permanently** in our security database.
+* **Data Deletion Requests:** You have the right to request the deletion of your standard user data. To request data removal, please contact us via our official support channels. *Please note that valid security infraction logs cannot be deleted upon request.*
+
+## 6. Changes to This Privacy Policy
+
+The Dev Team reserves the right to update or modify this Privacy Policy at any time. Any changes will be pushed directly to this GitHub repository. Your continued use of the Bot following any updates constitutes your explicit acceptance of the revised Privacy Policy.
+
+---
+*Copyright © 2026 Dawn Developer Team. All Rights Reserved.*
