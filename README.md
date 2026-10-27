@@ -2,7 +2,7 @@
 
 **Last Updated: October 27, 2026**
 
-Welcome to the official Terms of Service ("ToS") for **File Virus Detector** ("the Bot"). This agreement is a legally binding contract between you ("the User") and the **Discord Developer Team** Development Team ("the Dev Team", "we", "us", or "our"). 
+Welcome to the official Terms of Service ("ToS") for **File Virus Detector** ("the Bot"). This agreement is a legally binding contract between you ("the User") and the **Dawn Developer Team** Development Team ("the Dev Team", "we", "us", or "our"). 
 
 By inviting, accessing, hosting, or interacting with the Bot, you explicitly agree to be bound by these Terms. If you do not agree to these Terms, you must immediately remove the Bot from your server and cease all interaction with it.
 
@@ -58,4 +58,4 @@ The Bot is provided on an "AS IS" and "AS AVAILABLE" basis. The Dev Team makes n
 The Dev Team reserves the right to update or modify these Terms at any time. Any changes will be pushed directly to this repository. Your continued use of the Bot following any updates constitutes your explicit acceptance of the revised Terms.
 
 ---
-*Copyright © 2026 Discord Developer Team. All Rights Reserved*
+*Copyright © 2026 Dawn Developer Team. All Rights Reserved*
